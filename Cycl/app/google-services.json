@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827912468043",
+    "project_id": "cycl-9db05",
+    "storage_bucket": "cycl-9db05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827912468043:android:91cdfb7136fb182e147fce",
+        "android_client_info": {
+          "package_name": "com.example.cycl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827912468043-tq90o362fire1sgqdhhotmnvdpahbdha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827912468043-tq90o362fire1sgqdhhotmnvdpahbdha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="320dp"
+    android:height="157dp"
+    android:viewportWidth="320"
+    android:viewportHeight="157"
+    tools:ignore="VectorRaster" />

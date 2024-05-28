@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Cycl" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF76D1FF</item>
+        <item name="colorPrimaryVariant">#479ABA</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#04719B</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!--  <item name="android:windowTranslucentStatus">true</item>
+          <item name="android:windowTranslucentNavigation">true</item>
+          <item name="android:statusBarColor">#04719B</item>-->
+          <!-- Customize your theme here. -->
+    </style>
+</resources>
