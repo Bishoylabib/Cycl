@@ -5,6 +5,7 @@ CYCL is an innovative application designed to facilitate the rental and usage of
 ## Table of Contents
 
 - [Features](#features)
+- [Environmental Impact](#environmental-impact)
 - [External Sensor Integration](#external-sensor-integration)
   - [ESP8266 and Ultrasonic Sensor](#esp8266-and-ultrasonic-sensor)
   - [How It Works](#how-it-works)
@@ -52,6 +53,14 @@ CYCL is an innovative application designed to facilitate the rental and usage of
 - **Payment Screen**
   - Displays payment information and allows users to rate their experience.
   - Animated background and navigation back to the homepage.
+
+## Environmental Impact
+
+CYCL aims to reduce the usage of cars and, consequently, decrease global warming. By promoting the use of bicycles and scooters, the app helps to:
+
+- **Reduce Carbon Emissions**: Bicycles and scooters produce zero emissions, making them environmentally friendly alternatives to cars.
+- **Improve Air Quality**: Less car usage leads to lower air pollution levels, contributing to healthier urban environments.
+- **Promote Sustainable Transportation**: Encourages a shift towards sustainable transportation methods, fostering a culture of environmental consciousness.
 
 ## External Sensor Integration
 
