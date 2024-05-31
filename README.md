@@ -1,6 +1,6 @@
 # **CYCL**🌳🚲
 
-CYCL is an innovative application designed to facilitate the rental and usage of bicycles and scooters. The app integrates Firebase for authentication and real-time database interactions, providing a seamless experience for users to rent, ride, and return vehicles safely.
+CYCL is an innovative application designed to facilitate the rental and usage of bicycles and electric scooters. The app integrates Firebase for authentication and real-time database interactions, providing a seamless experience for users to rent, ride, and return vehicles safely.
 
 ## Table of Contents
 
