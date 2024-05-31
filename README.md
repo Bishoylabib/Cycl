@@ -58,7 +58,7 @@ CYCL is an innovative application designed to facilitate the rental and usage of
 
 CYCL aims to reduce the usage of cars and, consequently, decrease global warming. By promoting the use of bicycles and scooters, the app helps to:
 
-- **Reduce Carbon Emissions**: Bicycles and scooters produce zero emissions, making them environmentally friendly alternatives to cars.
+- **Reduce Carbon Emissions**: Bicycles and electric scooters produce zero emissions, making them environmentally friendly alternatives to cars.
 - **Improve Air Quality**: Less car usage leads to lower air pollution levels, contributing to healthier urban environments.
 - **Promote Sustainable Transportation**: Encourages a shift towards sustainable transportation methods, fostering a culture of environmental consciousness.
 
